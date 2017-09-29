@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Elizabeth/Documents/HackIot/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="66bebf5b90da7f60d230fa48f39f26174d0ac3dd">
+        <dex dex="/Users/Elizabeth/Documents/HackIot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e6740189df2d5544b4a19125e3e883ed4fbbdd38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Elizabeth/Documents/HackIot/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Elizabeth/Documents/HackIot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3017711e0ddbe5a0498f3ada18f6a44cc5e72d97/classes.dex" />
+    </item>
+
+</items>
